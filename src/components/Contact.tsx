@@ -296,7 +296,7 @@ const Contact = () => {
                 <Mail size={24} />
                 <div>
                   <h3 className="text-white font-semibold mb-1">Email</h3>
-                  <p className="text-[#a8b2d1]">thisaranavodbandara@gmail.com</p>
+                  <p className="text-[#a8b2d1]">code4matesdev@gmail.com</p>
                 </div>
               </ContactCard>
 
@@ -318,7 +318,7 @@ const Contact = () => {
                 transition={{ duration: 0.5, delay: 0.3 }}
               >
                 <IconButton 
-                  href="https://github.com/thisaranawod" 
+                  href="" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   whileHover={{ y: -5 }}
@@ -326,7 +326,7 @@ const Contact = () => {
                   <Github size={20} />
                 </IconButton>
                 <IconButton 
-                  href="https://linkedin.com/in/thisara-bandara" 
+                  href="" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   whileHover={{ y: -5 }}
@@ -334,7 +334,7 @@ const Contact = () => {
                   <Linkedin size={20} />
                 </IconButton>
                 <IconButton 
-                  href="https://twitter.com/thisaranawod" 
+                  href="" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   whileHover={{ y: -5 }}
